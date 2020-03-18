@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queishiey.nim-viet.org/sitemap.xml
